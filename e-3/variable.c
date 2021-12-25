@@ -8,7 +8,7 @@ int main(){
   // a = 2.1;   
   /* 
     this declaration is false and bring us an error. 
-    2.1 is float and a is integer so a correspond stuation is appearing
+    2.1 is float and a is integer so a corrupted situation appear.
   */
 
   // float a;
