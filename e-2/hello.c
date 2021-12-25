@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 int main() {
-  printf("hello world");  //  this is single line comment.
+  int a;
+  a = 5;
+  printf("hello world. The a value : %d", a);  //  this is single line comment.
   /* 
   this
   is 
