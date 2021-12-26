@@ -16,14 +16,12 @@ int main(){
     error.
     a already declarated before  
   */
-
- float b = 4.2;
- b = 3.8; //  this is correct. A value can be change with same data type.
- printf("\nvalue of b is %.2f", b);
+  float b = 4.2;
+  b = 3.8; //  this is correct. A value can be change with same data type.
+  printf("\nvalue of b is %.2f", b);
 
   /* Constants */
   const double PI = 3.14;
-
   // PI = 3.145 //  Error. Constants are unchangeable.
 
 }
