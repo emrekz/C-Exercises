@@ -21,4 +21,9 @@ int main(){
  b = 3.8; //  this is correct. A value can be change with same data type.
  printf("\nvalue of b is %.2f", b);
 
+  /* Constants */
+  const double PI = 3.14;
+
+  // PI = 3.145 //  Error. Constants are unchangeable.
+
 }
